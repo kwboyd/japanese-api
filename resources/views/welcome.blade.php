@@ -61,7 +61,14 @@
             }
 
             .m-b-md {
-                margin-bottom: 30px;
+                margin-bottom: 10px;
+            }
+
+            .description {
+              font-family: sans-serif;
+              margin: 25px auto;
+              width: 60%;
+              font-size: .9em;
             }
         </style>
     </head>
@@ -72,12 +79,13 @@
                 <div class="title m-b-md">
                     Japanese Study API
                 </div>
-
                 <div class="links">
                     <a href="https://kwboyd.gitbooks.io/japanese-api/content/">Documentation</a>
                     <a href="https://github.com/kwboyd/japanese-api">GitHub</a>
                     <a href="https://kwboyd.com">Portfolio</a>
                 </div>
+                <p class="description">An API for storing kanji, vocabulary, and particles. Can store pronunciation, examples sentences, compounds words, and all the other necessities for your Japanese studies.</p>
+
             </div>
         </div>
     </body>
