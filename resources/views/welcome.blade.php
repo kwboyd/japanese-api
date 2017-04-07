@@ -84,7 +84,7 @@
                     <a href="https://github.com/kwboyd/japanese-api">GitHub</a>
                     <a href="https://kwboyd.com">Portfolio</a>
                 </div>
-                <p class="description">An API for storing kanji, vocabulary, and particles. Can store pronunciation, examples sentences, compounds words, and all the other necessities for your Japanese studies.</p>
+                <p class="description">An API for storing kanji, vocabulary, and particles. Can store pronunciation, example sentences, compound words, and all the other necessities for your Japanese studies.</p>
 
             </div>
         </div>
