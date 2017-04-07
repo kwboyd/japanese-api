@@ -3,8 +3,8 @@ This is an API that can be used to store and retrieve Japanese kanji, vocabulary
 
 This API was built using Laravel 5.
 
-Full documentation is available at: [https://kwboyd.gitbooks.io/japanese-api/content/]
+Full documentation is available at: https://kwboyd.gitbooks.io/japanese-api/content/
 
-My portfolio is available at: [http://kwboyd.com]
+My portfolio is available at: http://kwboyd.com
 
 勉強で頑張ろう！
